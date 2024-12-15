@@ -20,7 +20,7 @@ import (
 
 *********************************************************************************************/
 
-const Version = "0.0.3"
+const Version = "0.0.4"
 
 var recordFile *os.File
 var started bool
